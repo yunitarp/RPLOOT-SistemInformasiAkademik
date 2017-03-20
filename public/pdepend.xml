@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics generated="2016-12-09T03:16:59" pdepend="2.3.2" ahh="2" andc="0" calls="2" ccn="2" ccn2="2" cloc="0" clsa="0" clsc="1" eloc="12" fanout="0" leafs="0" lloc="6" loc="16" maxDIT="2" ncloc="16" noc="1" nof="0" noi="0" nom="2" nop="1" roots="1">
+  <files>
+    <file name="D:\KULIAH\TUGAS\Semester 5\__IMPAL\TUBES\SisfoAkademik\app\Http\Controllers\MahasiswaController.php" loc="16" cloc="0" eloc="12" lloc="6" ncloc="16"/>
+  </files>
+  <package name="App\Http\Controllers" noc="1" noi="0" nom="2" nof="0" cr="0.15" rcr="0.15">
+    <class name="MahasiswaController" start="7" end="15" loc="9" cloc="0" eloc="6" lloc="2" ncloc="9" dit="2" noam="2" nocc="0" noom="0" nom="2" cr="0.15" rcr="0.2775" ca="0" cbo="0" ce="0" impl="0" cis="2" csz="2" npm="2" vars="0" varsi="0" varsnp="0" wmc="2" wmci="2" wmcnp="2">
+      <file name="D:\KULIAH\TUGAS\Semester 5\__IMPAL\TUBES\SisfoAkademik\app\Http\Controllers\MahasiswaController.php"/>
+      <method name="index" start="9" end="11" ccn="1" ccn2="1" loc="3" cloc="0" eloc="3" lloc="1" ncloc="3" npath="1" hnt="7" hnd="7" hv="19.651484454403" hd="6.25" hl="0.16" he="122.82177784002" ht="6.8234321022233" hb="0.0082362400950509" hi="3.1442375127045" mi="80.401219851729"/>
+      <method name="jadwal_mahasiswa" start="12" end="14" ccn="1" ccn2="1" loc="3" cloc="0" eloc="3" lloc="1" ncloc="3" npath="1" hnt="7" hnd="7" hv="19.651484454403" hd="6.25" hl="0.16" he="122.82177784002" ht="6.8234321022233" hb="0.0082362400950509" hi="3.1442375127045" mi="80.401219851729"/>
+    </class>
+  </package>
+</metrics>

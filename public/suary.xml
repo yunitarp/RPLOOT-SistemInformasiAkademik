@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics generated="2016-12-10T01:37:01" pdepend="2.3.2" ahh="2" andc="0" calls="0" ccn="0" ccn2="0" cloc="0" clsa="0" clsc="1" eloc="10" fanout="0" leafs="0" lloc="6" loc="14" maxDIT="2" ncloc="14" noc="1" nof="0" noi="0" nom="0" nop="1" roots="1">
+  <files>
+    <file name="D:\KULIAH\TUGAS\Semester 5\__IMPAL\TUBES\SisfoAkademik\app\Http\Controllers\Controller.php" loc="14" cloc="0" eloc="10" lloc="6" ncloc="14"/>
+  </files>
+  <package name="App\Http\Controllers" noc="1" noi="0" nom="0" nof="0" cr="0.15" rcr="0.2775">
+    <class name="Controller" start="10" end="13" loc="4" cloc="0" eloc="0" lloc="0" ncloc="4" dit="2" noam="0" nocc="0" noom="0" nom="0" cr="0.15" rcr="0.2775" ca="0" cbo="0" ce="0" impl="0" cis="0" csz="0" npm="0" vars="0" varsi="0" varsnp="0" wmc="0" wmci="0" wmcnp="0">
+      <file name="D:\KULIAH\TUGAS\Semester 5\__IMPAL\TUBES\SisfoAkademik\app\Http\Controllers\Controller.php"/>
+    </class>
+  </package>
+</metrics>
